@@ -10,5 +10,5 @@ function destructivelyPrependKitten(name) {
 }
 
 
-function destructivelyPrependKitten(name) {
+function (name) {
   return kittens.pop(Garfield)
