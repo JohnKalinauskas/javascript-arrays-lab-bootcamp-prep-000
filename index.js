@@ -9,5 +9,5 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyPrependKitten(name) {
-  ljk
+  return kittens.
 }
