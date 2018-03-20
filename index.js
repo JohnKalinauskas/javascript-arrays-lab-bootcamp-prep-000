@@ -8,4 +8,6 @@ function destructivelyAppendKitten(name) {
   
 }
 
-function 
+function destructivelyPrependKitten(name) {
+  ljk
+}
