@@ -9,3 +9,6 @@ function destructivelyPrependKitten(name) {
   return kittens.unshift("Bob")
 }
 
+function destructivelyPrependKitten(name) {
+  return kittens.pop(Garfield
+}
