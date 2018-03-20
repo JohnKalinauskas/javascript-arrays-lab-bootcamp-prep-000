@@ -9,6 +9,3 @@ function destructivelyPrependKitten(name) {
   return kittens.unshift("Bob")
 }
 
-
-
-}
