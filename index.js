@@ -10,4 +10,4 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyPrependKitten(name) {
-  return kittens.
+  return kittens.pop
